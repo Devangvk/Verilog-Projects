@@ -1,0 +1,43 @@
+$date
+	Tue Jul 12 22:43:03 2022
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module Hatb $end
+$var wire 1 ! stb $end
+$var wire 1 " ctb $end
+$var reg 1 # atb $end
+$var reg 1 $ btb $end
+$scope module DUT $end
+$var wire 1 # a $end
+$var wire 1 $ b $end
+$var wire 1 " carry $end
+$var wire 1 ! sum $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+0$
+0#
+0"
+0!
+$end
+#10000
+1!
+1$
+#20000
+0$
+1#
+#30000
+0!
+1"
+1$
+#50000
